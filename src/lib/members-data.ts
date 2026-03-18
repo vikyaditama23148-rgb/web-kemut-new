@@ -10,8 +10,8 @@ export const members: Member[] = [
       "Pemimpin visioner yang membawa KEMUT bersinar! Dengan semangat dan dedikasi tinggi, Viky memimpin komunitas kita menuju hal-hal luar biasa.",
     color: "bg-yellow-400",
     fun_fact: "Suka ngopi tengah malam sambil mikirin masa depan KEMUT",
-    instagram: "",
-    tiktok: "",
+    instagram: "vkyadtm",
+    tiktok: "vixssy.x",
   },
   {
     id: "nefita-putri",
@@ -22,7 +22,7 @@ export const members: Member[] = [
       "Si rapi dan teliti! Nefita adalah tulang punggung administrasi KEMUT yang memastikan semua dokumen dan catatan terjaga dengan sempurna.",
     color: "bg-pink-400",
     fun_fact: "Handwriting-nya bagus banget, bikin iri semua orang",
-    instagram: "",
+    instagram: "nefitaaaptrm",
     tiktok: "",
   },
   {
@@ -34,7 +34,7 @@ export const members: Member[] = [
       "Penjaga keuangan KEMUT yang amanah dan transparan! Amita memastikan setiap rupiah dikelola dengan bijak untuk kepentingan bersama.",
     color: "bg-green-400",
     fun_fact: "Bisa ngitung uang dengan cepat lebih dari kalkulator",
-    instagram: "",
+    instagram: "amitasft",
     tiktok: "",
   },
   {
@@ -46,7 +46,7 @@ export const members: Member[] = [
       "Wajah dan jiwa KEMUT di mata dunia! Desta membawa pesona dan karisma yang membuat KEMUT semakin dikenal dan dicintai banyak orang.",
     color: "bg-orange-400",
     fun_fact: "Kalau senyum, bisa bikin orang ikutan senyum seharian",
-    instagram: "",
+    instagram: "desta.r.d",
     tiktok: "",
   },
   {
@@ -58,7 +58,7 @@ export const members: Member[] = [
       "Penjaga kesehatan seluruh anggota KEMUT! Ning selalu siap memastikan semua anggota dalam kondisi prima untuk menjalankan aktivitas.",
     color: "bg-sky-400",
     fun_fact: "Stok obat di tasnya lebih lengkap dari apotek",
-    instagram: "",
+    instagram: "rssaa.aa",
     tiktok: "",
   },
   {
@@ -70,7 +70,7 @@ export const members: Member[] = [
       "Otak dibalik semua operasional KEMUT! Prawiraharja mengatur, merencanakan, dan memastikan semua kegiatan berjalan lancar sesuai rencana.",
     color: "bg-purple-400",
     fun_fact: "Jadwal hariannya lebih padat dari CEO perusahaan Fortune 500",
-    instagram: "",
+    instagram: "prawira857",
     tiktok: "",
   },
   {
@@ -82,7 +82,7 @@ export const members: Member[] = [
       "Penjaga ketertiban dan keamanan KEMUT! Syahreza memastikan semua anggota dan acara berlangsung dengan aman dan nyaman.",
     color: "bg-red-400",
     fun_fact: "Matanya lebih tajam dari kamera CCTV",
-    instagram: "",
+    instagram: "syahrezads_",
     tiktok: "",
   },
   {
@@ -94,7 +94,7 @@ export const members: Member[] = [
       "Duo dinamis tim keamanan KEMUT bersama Syahreza! Alif selalu siap siaga memastikan semua anggota terlindungi kapanpun dibutuhkan.",
     color: "bg-red-500",
     fun_fact: "Refleksnya secepat kilat, belum pernah ada yang bisa ngagetin dia",
-    instagram: "",
+    instagram: "alif_ram0",
     tiktok: "",
   },
   {
@@ -106,7 +106,7 @@ export const members: Member[] = [
       "Seniman visual KEMUT! Yolan bertanggung jawab atas semua konten kreatif, desain, dan dokumentasi yang membuat KEMUT selalu tampil memukau.",
     color: "bg-teal-400",
     fun_fact: "Bisa lihat typo dari jarak 10 meter",
-    instagram: "",
+    instagram: "ylnsap",
     tiktok: "",
   },
   {
@@ -118,7 +118,19 @@ export const members: Member[] = [
       "Ibu hati KEMUT yang penuh kasih sayang! Nadila adalah sosok yang selalu memberikan kehangatan, dukungan, dan semangat bagi seluruh anggota keluarga KEMUT.",
     color: "bg-rose-400",
     fun_fact: "Masakannya selalu enak, semua anggota rebutan kalau dia bawa makanan",
-    instagram: "",
+    instagram: "nadilamldna_",
     tiktok: "",
+  },
+    {
+    id: "alhafif-fitriyanto",
+    name: "Alhafif Fitriyanto",
+    role: "Imam Besar KEMUT",
+    roleEmoji: "🕌",
+    description:
+      "Pemimpin spiritual dan ideologis KEMUT! Alhafif bertugas mendakwah dan menyebarkan ideologi KEMUT ke seluruh penjuru — memastikan nilai-nilai KEMUT tetap terjaga, murni, dan terus berkembang di hati setiap anggota.",
+    color: "bg-emerald-400",
+    fun_fact: "Ceramahnya soal ideologi KEMUT bisa bikin orang langsung paham dan ikut percaya dalam 5 menit",
+    instagram: "achiiiey_",
+    tiktok: "achiey04",
   },
 ];
